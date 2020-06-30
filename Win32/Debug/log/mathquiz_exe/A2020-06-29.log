@@ -1,0 +1,320 @@
+MathQuiz.exe: 00000A60: 21:17:35 []:>--------------------------------------------------------------<
+MathQuiz.exe: 00000A60: 21:17:35 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 00000A60: 21:17:35 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 00000A60: 21:17:35 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 00000A60: 21:17:51 [TUniServerModule]:Shutting Down Server.
+MathQuiz.exe: 00000A60: 21:17:51 [TUniServerModule]:Stopping HTTP Server.
+MathQuiz.exe: 00000A60: 21:17:51 [TUniServerModule]:HTTP Server Stopped.
+MathQuiz.exe: 00000A60: 21:17:51 [TUniGUISessionManager]:Terminating Session manager.
+MathQuiz.exe: 00000A60: 21:17:51 [TUniGUISessionManager]:Stopping Cache Eraser...
+MathQuiz.exe: 00000A60: 21:17:51 [TUniGUISessionManager]:Cache Eraser Stopped.
+MathQuiz.exe: 00000A60: 21:17:51 [TUniGUISessionManager]:Destroying Worker Threads.
+MathQuiz.exe: 00000A60: 21:17:51 [TUniGUISessionManager]:Session manager terminated.
+MathQuiz.exe: 00000A60: 21:17:51 [TUniServerModule]:Server Shutdown Completed.
+MathQuiz.exe: 00000A60: 21:17:51 []:<-------------------------------------------------------------->
+MathQuiz.exe: 00000A60: 21:17:51 [Terminated]:Exit Code: 0
+MathQuiz.exe: 00004410: 21:18:00 []:>--------------------------------------------------------------<
+MathQuiz.exe: 00004410: 21:18:00 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 00004410: 21:18:00 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 00004410: 21:18:00 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 00001CBC: 21:37:53 []:>--------------------------------------------------------------<
+MathQuiz.exe: 00001CBC: 21:37:53 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 00001CBC: 21:37:53 [TUniServerModule]:Debug Mode = ON
+MathQuiz.exe: 00001CBC: 21:37:53 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+MathQuiz.exe: 00001CBC: 21:37:53 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 00004410: 21:39:20 [TUniServerModule]:Shutting Down Server.
+MathQuiz.exe: 00004410: 21:39:20 [TUniServerModule]:Stopping HTTP Server.
+MathQuiz.exe: 00004410: 21:39:21 [TUniServerModule]:HTTP Server Stopped.
+MathQuiz.exe: 00004410: 21:39:21 [TUniGUISessionManager]:Terminating Session manager.
+MathQuiz.exe: 00004410: 21:39:21 [TUniGUISessionManager]:Stopping Cache Eraser...
+MathQuiz.exe: 00004410: 21:39:21 [TUniGUISessionManager]:Cache Eraser Stopped.
+MathQuiz.exe: 00004410: 21:39:21 [TUniGUISessionManager]:Destroying Worker Threads.
+MathQuiz.exe: 00004410: 21:39:21 [TUniGUISessionManager]:Session manager terminated.
+MathQuiz.exe: 00004410: 21:39:21 [TUniServerModule]:Server Shutdown Completed.
+MathQuiz.exe: 00004410: 21:39:21 []:<-------------------------------------------------------------->
+MathQuiz.exe: 00004410: 21:39:21 [Terminated]:Exit Code: 0
+MathQuiz.exe: 00002498: 21:40:04 []:>--------------------------------------------------------------<
+MathQuiz.exe: 00002498: 21:40:04 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 00002498: 21:40:04 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 00002498: 21:40:04 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 00003CD8: 21:40:08 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 9tbdBt6wOY10654D543 ) : Addr: $00771A63
+MathQuiz.exe: 00002498: 22:07:29 [TUniServerModule]:Shutting Down Server.
+MathQuiz.exe: 00002498: 22:07:29 [TUniServerModule]:Stopping HTTP Server.
+MathQuiz.exe: 00002498: 22:07:30 [TUniServerModule]:HTTP Server Stopped.
+MathQuiz.exe: 00002498: 22:07:30 [TUniGUISessionManager]:Terminating Session manager.
+MathQuiz.exe: 00002498: 22:07:30 [TUniGUISessionManager]:Stopping Cache Eraser...
+MathQuiz.exe: 00002498: 22:07:30 [TUniGUISessionManager]:Cache Eraser Stopped.
+MathQuiz.exe: 00002498: 22:07:30 [TUniGUISessionManager]:Destroying Worker Threads.
+MathQuiz.exe: 00002498: 22:07:30 [TUniGUISessionManager]:Session manager terminated.
+MathQuiz.exe: 00002498: 22:07:30 [TUniServerModule]:Server Shutdown Completed.
+MathQuiz.exe: 00002498: 22:07:30 []:<-------------------------------------------------------------->
+MathQuiz.exe: 00002498: 22:07:30 [Terminated]:Exit Code: 0
+MathQuiz.exe: 0000301C: 22:17:31 []:>--------------------------------------------------------------<
+MathQuiz.exe: 0000301C: 22:17:31 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 0000301C: 22:17:31 [TUniServerModule]:Debug Mode = ON
+MathQuiz.exe: 0000301C: 22:17:31 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 0000301C: 22:17:31 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 0000301C: 22:17:35 [TUniServerModule]:Shutting Down Server.
+MathQuiz.exe: 0000301C: 22:17:35 [TUniServerModule]:Stopping HTTP Server.
+MathQuiz.exe: 0000301C: 22:17:36 [TUniServerModule]:HTTP Server Stopped.
+MathQuiz.exe: 0000301C: 22:17:36 [TUniGUISessionManager]:Terminating Session manager.
+MathQuiz.exe: 0000301C: 22:17:36 [TUniGUISessionManager]:Stopping Cache Eraser...
+MathQuiz.exe: 0000301C: 22:17:36 [TUniGUISessionManager]:Cache Eraser Stopped.
+MathQuiz.exe: 0000301C: 22:17:36 [TUniGUISessionManager]:Destroying Worker Threads.
+MathQuiz.exe: 0000301C: 22:17:36 [TUniGUISessionManager]:Session manager terminated.
+MathQuiz.exe: 0000301C: 22:17:36 [TUniServerModule]:Server Shutdown Completed.
+MathQuiz.exe: 0000301C: 22:17:36 []:<-------------------------------------------------------------->
+MathQuiz.exe: 0000301C: 22:17:36 [Terminated]:Exit Code: 0
+MathQuiz.exe: 000007D0: 22:35:39 []:>--------------------------------------------------------------<
+MathQuiz.exe: 000007D0: 22:35:39 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 000007D0: 22:35:39 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 000007D0: 22:35:39 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 00003B44: 22:35:47 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: O7U4akVshS10654D590 ) : Addr: $00771A63
+MathQuiz.exe: 000007D0: 22:36:01 [TUniServerModule]:Shutting Down Server.
+MathQuiz.exe: 000007D0: 22:36:01 [TUniServerModule]:Stopping HTTP Server.
+MathQuiz.exe: 000007D0: 22:36:02 [TUniServerModule]:HTTP Server Stopped.
+MathQuiz.exe: 000007D0: 22:36:02 [TUniGUISessionManager]:Terminating Session manager.
+MathQuiz.exe: 000007D0: 22:36:02 [TUniGUISessionManager]:Stopping Cache Eraser...
+MathQuiz.exe: 000007D0: 22:36:02 [TUniGUISessionManager]:Cache Eraser Stopped.
+MathQuiz.exe: 000007D0: 22:36:02 [TUniGUISessionManager]:Destroying Worker Threads.
+MathQuiz.exe: 000007D0: 22:36:02 [TUniGUISessionManager]:Session manager terminated.
+MathQuiz.exe: 000007D0: 22:36:02 [TUniServerModule]:Server Shutdown Completed.
+MathQuiz.exe: 000007D0: 22:36:02 []:<-------------------------------------------------------------->
+MathQuiz.exe: 000007D0: 22:36:02 [Terminated]:Exit Code: 0
+MathQuiz.exe: 000009C8: 22:39:13 []:>--------------------------------------------------------------<
+MathQuiz.exe: 000009C8: 22:39:13 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 000009C8: 22:39:13 [TUniServerModule]:Debug Mode = ON
+MathQuiz.exe: 000009C8: 22:39:13 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 000009C8: 22:39:13 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 00002950: 22:54:56 []:>--------------------------------------------------------------<
+MathQuiz.exe: 00002950: 22:54:56 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 00002950: 22:54:56 [TUniServerModule]:Debug Mode = ON
+MathQuiz.exe: 00002950: 22:54:56 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+MathQuiz.exe: 00002950: 22:54:56 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 00002950: 22:54:56 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 00002950: 22:54:59 [TUniServerModule]:Shutting Down Server.
+MathQuiz.exe: 00002950: 22:54:59 [TUniServerModule]:Stopping HTTP Server.
+MathQuiz.exe: 00002950: 22:54:59 [TUniServerModule]:HTTP Server Stopped.
+MathQuiz.exe: 00002950: 22:54:59 [TUniGUISessionManager]:Terminating Session manager.
+MathQuiz.exe: 00002950: 22:54:59 [TUniGUISessionManager]:Stopping Cache Eraser...
+MathQuiz.exe: 00002950: 22:54:59 [TUniGUISessionManager]:Cache Eraser Stopped.
+MathQuiz.exe: 00002950: 22:54:59 [TUniGUISessionManager]:Destroying Worker Threads.
+MathQuiz.exe: 00002950: 22:55:00 [TUniGUISessionManager]:Session manager terminated.
+MathQuiz.exe: 00002950: 22:55:00 [TUniServerModule]:Server Shutdown Completed.
+MathQuiz.exe: 00002950: 22:55:00 []:<-------------------------------------------------------------->
+MathQuiz.exe: 00002950: 22:55:00 [Terminated]:Exit Code: 0
+MathQuiz.exe: 00002FF8: 23:06:38 []:>--------------------------------------------------------------<
+MathQuiz.exe: 00002FF8: 23:06:38 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 00002FF8: 23:06:38 [TUniServerModule]:Debug Mode = ON
+MathQuiz.exe: 00002FF8: 23:06:38 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 00002FF8: 23:06:38 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 000025E0: 23:07:34 []:>--------------------------------------------------------------<
+MathQuiz.exe: 000025E0: 23:07:34 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 000025E0: 23:07:34 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+MathQuiz.exe: 000025E0: 23:07:34 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 000025E0: 23:07:34 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 00003120: 23:07:36 [Access violation at address 007991BF in module 'MathQuiz.exe'. Write of address 00000004-127.0.0.1]:EAccessViolation : Access violation at address 007991BF in module 'MathQuiz.exe'. Write of address 00000004 : Addr: $007991BF
+MathQuiz.exe: 00002F40: 23:07:43 [Access violation at address 007991BF in module 'MathQuiz.exe'. Write of address 00000004-127.0.0.1]:EAccessViolation : Access violation at address 007991BF in module 'MathQuiz.exe'. Write of address 00000004 : Addr: $007991BF
+MathQuiz.exe: 0000422C: 23:07:47 [127.0.0.1]:EAccessViolation : Access violation at address 00799224 in module 'MathQuiz.exe'. Read of address 00000008 : Addr: $00799224
+MathQuiz.exe: 000025E0: 23:08:02 [TUniServerModule]:Shutting Down Server.
+MathQuiz.exe: 000025E0: 23:08:02 [TUniServerModule]:Stopping HTTP Server.
+MathQuiz.exe: 000025E0: 23:08:03 [TUniServerModule]:HTTP Server Stopped.
+MathQuiz.exe: 000025E0: 23:08:03 [TUniGUISessionManager]:Terminating Session manager.
+MathQuiz.exe: 000025E0: 23:08:03 [TUniGUISessionManager]:Stopping Cache Eraser...
+MathQuiz.exe: 000025E0: 23:08:03 [TUniGUISessionManager]:Cache Eraser Stopped.
+MathQuiz.exe: 000025E0: 23:08:03 [TUniGUISessionManager]:Destroying Worker Threads.
+MathQuiz.exe: 000025E0: 23:08:03 [TUniGUISessionManager]:Session manager terminated.
+MathQuiz.exe: 000025E0: 23:08:03 [TUniServerModule]:Server Shutdown Completed.
+MathQuiz.exe: 000025E0: 23:08:03 []:<-------------------------------------------------------------->
+MathQuiz.exe: 000025E0: 23:08:03 [Terminated]:Exit Code: 0
+MathQuiz.exe: 00004084: 23:08:40 []:>--------------------------------------------------------------<
+MathQuiz.exe: 00004084: 23:08:40 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 00004084: 23:08:40 [TUniServerModule]:Debug Mode = ON
+MathQuiz.exe: 00004084: 23:08:40 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 00004084: 23:08:40 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 000019C4: 23:09:06 []:>--------------------------------------------------------------<
+MathQuiz.exe: 000019C4: 23:09:06 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 000019C4: 23:09:06 [TUniServerModule]:Debug Mode = ON
+MathQuiz.exe: 000019C4: 23:09:06 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+MathQuiz.exe: 000019C4: 23:09:06 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 000019C4: 23:09:06 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 00004140: 23:09:14 []:>--------------------------------------------------------------<
+MathQuiz.exe: 00004140: 23:09:14 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 00004140: 23:09:14 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+MathQuiz.exe: 00004140: 23:09:14 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 00004140: 23:09:14 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 00002B88: 23:09:14 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 24111PRPjc10654ED9D ) : Addr: $00771ABF
+MathQuiz.exe: 00002B88: 23:09:14 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 24111PRPjc10654ED9D ) : Addr: $00771ABF
+MathQuiz.exe: 00003520: 23:09:14 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 24111PRPjc10654ED9D ) : Addr: $00771ABF
+MathQuiz.exe: 00003520: 23:09:14 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 24111PRPjc10654ED9D ) : Addr: $00771ABF
+MathQuiz.exe: 00001ED4: 23:14:09 [Invalid pointer operation-127.0.0.1]:EInvalidPointer : Invalid pointer operation : Addr: $004098ED
+MathQuiz.exe: 00001E10: 23:17:08 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 7M4ATrByWe10654EDC7 ) : Addr: $00771ABF
+MathQuiz.exe: 00001E10: 23:17:09 [Access violation at address 00799224 in module 'MathQuiz.exe'. Read of address 00000008-127.0.0.1]:EAccessViolation : Access violation at address 00799224 in module 'MathQuiz.exe'. Read of address 00000008 : Addr: $00799224
+MathQuiz.exe: 00001918: 23:17:13 [127.0.0.1]:EAccessViolation : Access violation at address 00799224 in module 'MathQuiz.exe'. Read of address 00000008 : Addr: $00799224
+MathQuiz.exe: 00001918: 23:17:15 [Access violation at address 00799224 in module 'MathQuiz.exe'. Read of address 00000008-127.0.0.1]:EAccessViolation : Access violation at address 00799224 in module 'MathQuiz.exe'. Read of address 00000008 : Addr: $00799224
+MathQuiz.exe: 00001E10: 23:17:19 [127.0.0.1]:EAccessViolation : Access violation at address 00799224 in module 'MathQuiz.exe'. Read of address 00000008 : Addr: $00799224
+MathQuiz.exe: 00004140: 23:18:25 [TUniServerModule]:Shutting Down Server.
+MathQuiz.exe: 00004140: 23:18:25 [TUniServerModule]:Stopping HTTP Server.
+MathQuiz.exe: 00004140: 23:18:26 [TUniServerModule]:HTTP Server Stopped.
+MathQuiz.exe: 00004140: 23:18:26 [TUniGUISessionManager]:Terminating Session manager.
+MathQuiz.exe: 00004140: 23:18:26 [TUniGUISessionManager]:Stopping Cache Eraser...
+MathQuiz.exe: 00004140: 23:18:26 [TUniGUISessionManager]:Cache Eraser Stopped.
+MathQuiz.exe: 00004140: 23:18:26 [TUniGUISessionManager]:Destroying Worker Threads.
+MathQuiz.exe: 00004140: 23:18:26 [TUniGUISessionManager]:Session manager terminated.
+MathQuiz.exe: 00004140: 23:18:26 [TUniServerModule]:Server Shutdown Completed.
+MathQuiz.exe: 00004140: 23:18:26 []:<-------------------------------------------------------------->
+MathQuiz.exe: 00004140: 23:18:26 [Terminated]:Exit Code: 0
+MathQuiz.exe: 0000441C: 23:19:09 []:>--------------------------------------------------------------<
+MathQuiz.exe: 0000441C: 23:19:09 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 0000441C: 23:19:09 [TUniServerModule]:Debug Mode = ON
+MathQuiz.exe: 0000441C: 23:19:09 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 0000441C: 23:19:09 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 00002EE4: 23:19:25 []:>--------------------------------------------------------------<
+MathQuiz.exe: 00002EE4: 23:19:25 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 00002EE4: 23:19:25 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+MathQuiz.exe: 00002EE4: 23:19:25 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 00002EE4: 23:19:25 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 00001C58: 23:19:25 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: GDM9YUbVpu10654F071 ) : Addr: $00771ABF
+MathQuiz.exe: 00001C58: 23:19:25 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: GDM9YUbVpu10654F071 ) : Addr: $00771ABF
+MathQuiz.exe: 00001C58: 23:19:25 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: GDM9YUbVpu10654F071 ) : Addr: $00771ABF
+MathQuiz.exe: 00001C58: 23:19:25 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: GDM9YUbVpu10654F071 ) : Addr: $00771ABF
+MathQuiz.exe: 00002EE4: 23:20:28 [TUniServerModule]:Shutting Down Server.
+MathQuiz.exe: 00002EE4: 23:20:28 [TUniServerModule]:Stopping HTTP Server.
+MathQuiz.exe: 00002EE4: 23:20:29 [TUniServerModule]:HTTP Server Stopped.
+MathQuiz.exe: 00002EE4: 23:20:29 [TUniGUISessionManager]:Terminating Session manager.
+MathQuiz.exe: 00002EE4: 23:20:29 [TUniGUISessionManager]:Stopping Cache Eraser...
+MathQuiz.exe: 00002EE4: 23:20:29 [TUniGUISessionManager]:Cache Eraser Stopped.
+MathQuiz.exe: 00002EE4: 23:20:29 [Invalid pointer operation-127.0.0.1]:EInvalidPointer : Invalid pointer operation : Addr: $004098ED
+MathQuiz.exe: 00002EE4: 23:20:29 [TUniGUISessionManager]:Destroying Worker Threads.
+MathQuiz.exe: 00002EE4: 23:20:29 [TUniGUISessionManager]:Session manager terminated.
+MathQuiz.exe: 00002EE4: 23:20:29 [TUniServerModule]:Server Shutdown Completed.
+MathQuiz.exe: 00002EE4: 23:20:29 []:<-------------------------------------------------------------->
+MathQuiz.exe: 00002EE4: 23:20:29 [Terminated]:Exit Code: 0
+MathQuiz.exe: 00002138: 23:24:21 []:>--------------------------------------------------------------<
+MathQuiz.exe: 00002138: 23:24:21 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 00002138: 23:24:21 [TUniServerModule]:Debug Mode = ON
+MathQuiz.exe: 00002138: 23:24:21 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 00002138: 23:24:21 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 00001778: 23:24:45 []:>--------------------------------------------------------------<
+MathQuiz.exe: 00001778: 23:24:45 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 00001778: 23:24:45 [TUniServerModule]:Debug Mode = ON
+MathQuiz.exe: 00001778: 23:24:45 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+MathQuiz.exe: 00001778: 23:24:45 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 00001778: 23:24:45 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 00001D44: 23:24:55 []:>--------------------------------------------------------------<
+MathQuiz.exe: 00001D44: 23:24:55 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 00001D44: 23:24:55 [TUniServerModule]:Debug Mode = ON
+MathQuiz.exe: 00001D44: 23:24:55 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+MathQuiz.exe: 00001D44: 23:24:55 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 00001D44: 23:24:55 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 000014D8: 23:25:01 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 3fD2sHiEjm10654F1DA ) : Addr: $00771ABF
+MathQuiz.exe: 0000452C: 23:25:18 []:>--------------------------------------------------------------<
+MathQuiz.exe: 0000452C: 23:25:18 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 0000452C: 23:25:18 [TUniServerModule]:Debug Mode = ON
+MathQuiz.exe: 0000452C: 23:25:18 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+MathQuiz.exe: 0000452C: 23:25:18 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 0000452C: 23:25:18 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 000034DC: 23:26:40 []:>--------------------------------------------------------------<
+MathQuiz.exe: 000034DC: 23:26:40 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 000034DC: 23:26:40 [TUniServerModule]:Debug Mode = ON
+MathQuiz.exe: 000034DC: 23:26:40 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+MathQuiz.exe: 000034DC: 23:26:40 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 000034DC: 23:26:40 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 00000C34: 23:27:11 []:>--------------------------------------------------------------<
+MathQuiz.exe: 00000C34: 23:27:11 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 00000C34: 23:27:11 [TUniServerModule]:Debug Mode = ON
+MathQuiz.exe: 00000C34: 23:27:11 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+MathQuiz.exe: 00000C34: 23:27:11 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 00000C34: 23:27:11 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 000042A4: 23:28:12 []:>--------------------------------------------------------------<
+MathQuiz.exe: 000042A4: 23:28:12 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 000042A4: 23:28:12 [TUniServerModule]:Debug Mode = ON
+MathQuiz.exe: 000042A4: 23:28:12 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+MathQuiz.exe: 000042A4: 23:28:12 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 000042A4: 23:28:12 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 000010B8: 23:30:31 []:>--------------------------------------------------------------<
+MathQuiz.exe: 000010B8: 23:30:31 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 000010B8: 23:30:31 [TUniServerModule]:Debug Mode = ON
+MathQuiz.exe: 000010B8: 23:30:31 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+MathQuiz.exe: 000010B8: 23:30:31 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 000010B8: 23:30:31 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 00000954: 23:30:51 []:>--------------------------------------------------------------<
+MathQuiz.exe: 00000954: 23:30:51 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 00000954: 23:30:51 [TUniServerModule]:Debug Mode = ON
+MathQuiz.exe: 00000954: 23:30:51 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+MathQuiz.exe: 00000954: 23:30:51 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 00000954: 23:30:51 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 00003ED0: 23:32:08 []:>--------------------------------------------------------------<
+MathQuiz.exe: 00003ED0: 23:32:08 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 00003ED0: 23:32:08 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+MathQuiz.exe: 00003ED0: 23:32:08 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 00003ED0: 23:32:08 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 00003ED0: 23:32:50 [TUniServerModule]:Shutting Down Server.
+MathQuiz.exe: 00003ED0: 23:32:50 [TUniServerModule]:Stopping HTTP Server.
+MathQuiz.exe: 00003ED0: 23:32:51 [TUniServerModule]:HTTP Server Stopped.
+MathQuiz.exe: 00003ED0: 23:32:51 [TUniGUISessionManager]:Terminating Session manager.
+MathQuiz.exe: 00003ED0: 23:32:51 [TUniGUISessionManager]:Stopping Cache Eraser...
+MathQuiz.exe: 00003ED0: 23:32:51 [TUniGUISessionManager]:Cache Eraser Stopped.
+MathQuiz.exe: 00003ED0: 23:32:51 [Invalid pointer operation-127.0.0.1]:EInvalidPointer : Invalid pointer operation : Addr: $004098ED
+MathQuiz.exe: 00003ED0: 23:32:51 [TUniGUISessionManager]:Destroying Worker Threads.
+MathQuiz.exe: 00003ED0: 23:32:51 [TUniGUISessionManager]:Session manager terminated.
+MathQuiz.exe: 00003ED0: 23:32:51 [TUniServerModule]:Server Shutdown Completed.
+MathQuiz.exe: 00003ED0: 23:32:51 []:<-------------------------------------------------------------->
+MathQuiz.exe: 00003ED0: 23:32:51 [Terminated]:Exit Code: 0
+MathQuiz.exe: 00003994: 23:33:01 []:>--------------------------------------------------------------<
+MathQuiz.exe: 00003994: 23:33:01 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 00003994: 23:33:01 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 00003994: 23:33:01 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 00003994: 23:34:18 [TUniServerModule]:Shutting Down Server.
+MathQuiz.exe: 00003994: 23:34:18 [TUniServerModule]:Stopping HTTP Server.
+MathQuiz.exe: 00003994: 23:34:19 [TUniServerModule]:HTTP Server Stopped.
+MathQuiz.exe: 00003994: 23:34:19 [TUniGUISessionManager]:Terminating Session manager.
+MathQuiz.exe: 00003994: 23:34:19 [TUniGUISessionManager]:Stopping Cache Eraser...
+MathQuiz.exe: 00003994: 23:34:19 [TUniGUISessionManager]:Cache Eraser Stopped.
+MathQuiz.exe: 00003994: 23:34:19 [Invalid pointer operation-127.0.0.1]:EInvalidPointer : Invalid pointer operation : Addr: $004098ED
+MathQuiz.exe: 00003994: 23:34:19 [TUniGUISessionManager]:Destroying Worker Threads.
+MathQuiz.exe: 00003994: 23:34:19 [TUniGUISessionManager]:Session manager terminated.
+MathQuiz.exe: 00003994: 23:34:19 [TUniServerModule]:Server Shutdown Completed.
+MathQuiz.exe: 00003994: 23:34:19 []:<-------------------------------------------------------------->
+MathQuiz.exe: 00003994: 23:34:19 [Terminated]:Exit Code: 0
+MathQuiz.exe: 00004028: 23:36:49 []:>--------------------------------------------------------------<
+MathQuiz.exe: 00004028: 23:36:49 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 00004028: 23:36:49 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 00004028: 23:36:49 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 00004028: 23:37:16 [TUniServerModule]:Shutting Down Server.
+MathQuiz.exe: 00004028: 23:37:16 [TUniServerModule]:Stopping HTTP Server.
+MathQuiz.exe: 00004028: 23:37:17 [TUniServerModule]:HTTP Server Stopped.
+MathQuiz.exe: 00004028: 23:37:17 [TUniGUISessionManager]:Terminating Session manager.
+MathQuiz.exe: 00004028: 23:37:17 [TUniGUISessionManager]:Stopping Cache Eraser...
+MathQuiz.exe: 00004028: 23:37:17 [TUniGUISessionManager]:Cache Eraser Stopped.
+MathQuiz.exe: 00004028: 23:37:17 [Invalid pointer operation-127.0.0.1]:EInvalidPointer : Invalid pointer operation : Addr: $004098ED
+MathQuiz.exe: 00004028: 23:37:17 [TUniGUISessionManager]:Destroying Worker Threads.
+MathQuiz.exe: 00004028: 23:37:17 [TUniGUISessionManager]:Session manager terminated.
+MathQuiz.exe: 00004028: 23:37:17 [TUniServerModule]:Server Shutdown Completed.
+MathQuiz.exe: 00004028: 23:37:17 []:<-------------------------------------------------------------->
+MathQuiz.exe: 00004028: 23:37:17 [Terminated]:Exit Code: 0
+MathQuiz.exe: 000015B8: 23:37:39 []:>--------------------------------------------------------------<
+MathQuiz.exe: 000015B8: 23:37:39 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 000015B8: 23:37:39 [TUniServerModule]:Debug Mode = ON
+MathQuiz.exe: 000015B8: 23:37:39 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 000015B8: 23:37:39 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 000031FC: 23:40:16 []:>--------------------------------------------------------------<
+MathQuiz.exe: 000031FC: 23:40:16 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 000031FC: 23:40:16 [TUniServerModule]:Debug Mode = ON
+MathQuiz.exe: 000031FC: 23:40:16 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+MathQuiz.exe: 000031FC: 23:40:16 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 000031FC: 23:40:16 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 000007C0: 23:46:08 []:>--------------------------------------------------------------<
+MathQuiz.exe: 000007C0: 23:46:08 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 000007C0: 23:46:08 [TUniServerModule]:Debug Mode = ON
+MathQuiz.exe: 000007C0: 23:46:08 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+MathQuiz.exe: 000007C0: 23:46:08 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 000007C0: 23:46:08 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 00003484: 23:48:42 []:>--------------------------------------------------------------<
+MathQuiz.exe: 00003484: 23:48:42 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 00003484: 23:48:42 [TUniServerModule]:Debug Mode = ON
+MathQuiz.exe: 00003484: 23:48:42 [TUniServerModule]:Global Cache Folder Erased. <5> Files deleted.
+MathQuiz.exe: 00003484: 23:48:42 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 00003484: 23:48:42 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 00003484: 23:50:55 [TUniServerModule]:Shutting Down Server.
+MathQuiz.exe: 00003484: 23:50:55 [TUniServerModule]:Stopping HTTP Server.

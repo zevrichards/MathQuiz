@@ -1,0 +1,166 @@
+unit Main;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics,
+  Controls, Forms, uniGUITypes, uniGUIAbstractClasses,
+  uniGUIClasses, uniGUIRegClasses, uniGUIForm, uniGUIBaseClasses, uniEdit,
+  uniLabel, uniButton,
+  Generics.Collections, StrUtils;
+type
+  TQuestion = class
+    ID: integer;
+    A: double;
+    B: double;
+    Operation: char;
+    constructor Create(anID: integer; ValueA,ValueB: double; anOperation: char);
+//    destructor Destroy; override;
+end;
+
+type
+  TMainForm = class(TUniForm)
+    UniEditA: TUniEdit;
+    UniEditB: TUniEdit;
+    UniEditResponse: TUniEdit;
+    UniButtonSubmit: TUniButton;
+    UniButtonNewQuestion: TUniButton;
+    UniLabelOperation: TUniLabel;
+    UniLabel2: TUniLabel;
+    UniLabelQID: TUniLabel;
+    procedure UniButtonNewQuestionClick(Sender: TObject);
+    procedure UniFormDestroy(Sender: TObject);
+    procedure UniButtonSubmitClick(Sender: TObject);
+    function CheckAnswer(aQuestion: TQuestion; response: double): boolean;
+    procedure UniFormShow(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  aQuestion: TQuestion;
+  aQuestionList: TObjectList<TQuestion>;
+
+
+function MainForm: TMainForm;
+
+implementation
+
+{$R *.dfm}
+
+uses
+  uniGUIVars, MainModule, uniGUIApplication;
+
+function MainForm: TMainForm;
+begin
+  Result := TMainForm(UniMainModule.GetFormInstance(TMainForm));
+end;
+
+constructor TQuestion.Create(anID: integer; ValueA,ValueB: double; anOperation: char);
+begin
+  inherited Create;
+  With self do
+  begin
+    ID := anID;
+    A := ValueA;
+    B := ValueB;
+    Operation := anOperation
+  end;
+end;
+
+{Get a random question}
+function GetNewQuestion: TQuestion;
+begin
+  Result := aQuestionList[random(12)];
+end;
+
+{Retrieve a new question}
+procedure TMainForm.UniButtonNewQuestionClick(Sender: TObject);
+begin
+  aQuestion := GetNewQuestion;  //get a random TQuestion object
+  With aQuestion do
+  begin
+    UniLabelQID.Caption := 'Question ID: ' + IntToStr(ID);
+    UniEditA.Text := FloatToStr(A);
+    UniEditB.Text := FloatToStr(B);
+    UniLabelOperation.Caption := Operation;
+    UniEditResponse.Text := '';
+  end;
+end;
+
+procedure TMainForm.UniButtonSubmitClick(Sender: TObject);
+var d: double;
+begin
+  If not TryStrToFloat(UniEditResponse.text, d) then     //validation
+    MessageDlg('Please enter a valid number',mtError,[mbOk])
+  else
+  begin
+    If CheckAnswer(aQuestion, StrToFloat(UniEditResponse.text)) then
+    begin
+      UniEditResponse.text := 'Correct!';
+      Application.ProcessMessages;
+      Sleep(500);
+      UniButtonNewQuestion.Click;
+    end
+    else
+      UniEditResponse.text := 'Try again :(...'
+  end;
+end;
+
+{Compare user response to evaluated answer}
+function TMainForm.CheckAnswer(aQuestion: TQuestion; response: double): boolean;
+var
+  op: integer;
+  answer: double;
+
+begin
+  op := IndexStr(aQuestion.Operation, ['+', '-', '/', '*']); //determine the operation to be performed
+
+  //evaluate answer
+  Case op of
+    0: answer :=  aQuestion.a + aQuestion.b;
+    1: answer :=  aQuestion.a - aQuestion.b;
+    2: answer :=  aQuestion.a / aQuestion.b;
+    3: answer :=  aQuestion.a * aQuestion.b;
+  end;
+
+  If answer = response then
+    Result := true
+  Else
+    Result := false;
+
+end;
+
+procedure TMainForm.UniFormDestroy(Sender: TObject);
+begin
+  FreeandNil(aQuestionList);
+  FreeAndNil(aQuestion);
+end;
+
+
+{Initialize Questions and Load new question on first show}
+procedure TMainForm.UniFormShow(Sender: TObject);
+begin
+  UniButtonNewQuestion.Click;
+end;
+
+
+initialization
+  RegisterAppFormClass(TMainForm);
+  aQuestionList := TObjectList<TQuestion>.create;
+  aQuestionList.AddRange( [TQuestion.Create(1,2,3,'+'),
+                            TQuestion.Create(2,5,4,'-'),
+                            TQuestion.Create(3,6,7,'*'),
+                            TQuestion.Create(4,8,10,'/'),
+                            TQuestion.Create(5,9,11,'+'),
+                            TQuestion.Create(6,12,13,'-'),
+                            TQuestion.Create(7,14,15,'*'),
+                            TQuestion.Create(8,16,8,'/'),
+                            TQuestion.Create(9,17,18,'+'),
+                            TQuestion.Create(10,19,4,'-'),
+                            TQuestion.Create(11,20,6,'*'),
+                            TQuestion.Create(12,21,3,'/')]);
+
+end.

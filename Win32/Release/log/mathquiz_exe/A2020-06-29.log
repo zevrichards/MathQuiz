@@ -1,0 +1,21 @@
+MathQuiz.exe: 00004588: 23:51:36 []:>--------------------------------------------------------------<
+MathQuiz.exe: 00004588: 23:51:36 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 00004588: 23:51:36 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 00004588: 23:51:36 [TUniServerModule]:HTTP Server Started on Port: 8077
+MathQuiz.exe: 00003FD0: 23:51:55 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\CSI\OneDrive\Documents\Embarcadero\Studio\Projects\MathQuiz\Win32\Release\favicon.ico
+MathQuiz.exe: 00003D7C: 23:52:31 [Invalid pointer operation-127.0.0.1]:EInvalidPointer : Invalid pointer operation : Addr: $004098ED
+MathQuiz.exe: 00004588: 23:55:02 [TUniServerModule]:Shutting Down Server.
+MathQuiz.exe: 00004588: 23:55:02 [TUniServerModule]:Stopping HTTP Server.
+MathQuiz.exe: 00004588: 23:55:03 [TUniServerModule]:HTTP Server Stopped.
+MathQuiz.exe: 00004588: 23:55:03 [TUniGUISessionManager]:Terminating Session manager.
+MathQuiz.exe: 00004588: 23:55:03 [TUniGUISessionManager]:Stopping Cache Eraser...
+MathQuiz.exe: 00004588: 23:55:03 [TUniGUISessionManager]:Cache Eraser Stopped.
+MathQuiz.exe: 00004588: 23:55:03 [TUniGUISessionManager]:Destroying Worker Threads.
+MathQuiz.exe: 00004588: 23:55:04 [TUniGUISessionManager]:Session manager terminated.
+MathQuiz.exe: 00004588: 23:55:04 [TUniServerModule]:Server Shutdown Completed.
+MathQuiz.exe: 00004588: 23:55:04 []:<-------------------------------------------------------------->
+MathQuiz.exe: 00004588: 23:55:04 [Terminated]:Exit Code: 0
+MathQuiz.exe: 000034F0: 23:56:01 []:>--------------------------------------------------------------<
+MathQuiz.exe: 000034F0: 23:56:01 [TUniServerModule]:Server First Init.
+MathQuiz.exe: 000034F0: 23:56:01 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+MathQuiz.exe: 000034F0: 23:56:01 [TUniServerModule]:HTTP Server Started on Port: 8077

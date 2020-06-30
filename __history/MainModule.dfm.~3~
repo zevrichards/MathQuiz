@@ -1,0 +1,7 @@
+object UniMainModule: TUniMainModule
+  OldCreateOrder = False
+  MonitoredKeys.Keys = <>
+  OnSessionTimeout = UniGUIMainModuleSessionTimeout
+  Height = 448
+  Width = 629
+end
