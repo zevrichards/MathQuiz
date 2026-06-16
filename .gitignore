@@ -1,11 +1,9 @@
 Win32/
-Win32/Release/log
 __history/
 *.dproj.local
 *.identcache
 *.stat
 *.res
 
-!Win32/
-!Win32/Release/
+
 !Win32/Release/MathQuiz.exe
